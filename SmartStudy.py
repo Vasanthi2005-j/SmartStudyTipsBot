@@ -43,7 +43,7 @@ def find_closest_question(user_query, vectorizer, question_vectors, df):
     return None
 
 # Chatbot Header UI
-st.markdown("<h1 style='text-align: center;'>🤖 Smart Study Tips Chatbot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🤖 AI-Powered Study Tips Chatbot</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>💡 Ask me anything about exam prep, time management, stress control, or answer presentation!</p>", unsafe_allow_html=True)
 st.divider()
 
